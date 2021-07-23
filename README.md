@@ -15,7 +15,7 @@ This a NLP practice project for the author.
 
 ## File Descriptions<a name="file_descriptions"></a> ##
 There is only one Jupyter notebook file, currently.
-+ **Tweet_Classification.ipynb**. This file contains all the Python code to run the model. The code is currently under development, and only contains data cleaning and data exploration.
++ **Tweet_Classification.ipynb**. This file contains all the Python code to run the model. The code, currently under development, performs data cleaning and data exploration followed by baseline (BernoulliNB) classification.
 
 ## Instructions for Use<a name="instructions_for_use"></a> ##
 1. Download the file in the Jupyter notebook in the [File Descriptions](#file_descriptions) section and run it;
@@ -27,6 +27,9 @@ The following packages are used. The user must download and install these packag
 2. matplotlib (https://www.matplotlib.org)
 3. pandas (https://pandas.pydata.org/pandas-docs/stable/)
 4. warnings (https://docs.python.org/3/library/warnings.html)
+5. re (https://docs.python.org/3/library/re.html)
+6. nltk (https://www.nltk.org/)
+7. scikit-learn (https://scikit-learn.org/stable/index.html)
 
 ## Author<a name="author"></a> ##
 Ashutosh A. Patwardhan ([GitHub](https://github.com/a1pat), [LinkedIn](https://www.linkedin.com/in/ashutosh-patwardhan/))
