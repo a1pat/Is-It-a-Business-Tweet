@@ -1,7 +1,7 @@
 # Is it a Business tweet? #
 Magnimind Acedemy - ML Project Bootcamp - NLP Project
 
-The goal is to develop a model to mimic a human editor's classification of whether or not a tweet is business-related.
+The goal is to develop a model to mimic a human editor's classification of whether or not a tweet is business-related. **This work is still in progress**.
 
 ## Table of Contents ##
 1. [Motivation](#motivation)
@@ -30,6 +30,7 @@ The following packages are used. The user must download and install these packag
 5. re (https://docs.python.org/3/library/re.html)
 6. nltk (https://www.nltk.org/)
 7. scikit-learn (https://scikit-learn.org/stable/index.html)
+8. tqdm (https://pypi.org/project/tqdm/)
 
 ## Author<a name="author"></a> ##
 Ashutosh A. Patwardhan ([GitHub](https://github.com/a1pat), [LinkedIn](https://www.linkedin.com/in/ashutosh-patwardhan/))
